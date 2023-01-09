@@ -1,0 +1,47 @@
+#### pixmap (com.ankamagames.dofusarena.uR.class)
+
+| Attribute Name | Type | Description | Default Value |
+|-----|----|---|---|
+|``height``|``int``|        |        |
+|``width``|``int``|        |        |
+|``x``|``int``|        |        |
+|``y``|``int``|        |        |
+|``name``|``String``|        |        |
+|``texture``|``Ef``|        |        |
+|``position``|``aJN``|        |        |
+|``rotation``|``xD``|        |        |
+|``flipHorizontaly``|``boolean``|        |        |
+|``flipVerticaly``|``boolean``|        |        |
+#### Inherited from AbstractSwitch (com.ankamagames.dofusarena.ON.class)
+
+| Attribute Name | Type | Description | Default Value |
+|-----|----|---|---|
+|``decoratorSwitch``|``boolean``|        |        |
+#### Inherited from AbstractStateAppearanceElement (com.ankamagames.dofusarena.bv.class)
+
+| Attribute Name | Type | Description | Default Value |
+|-----|----|---|---|
+|``label``|``String``|        |        |
+|``state``|``String``|        |        |
+#### Inherited from AbstractAppearanceElement (com.ankamagames.dofusarena.apn.class)
+
+| Attribute Name | Type | Description | Default Value |
+|-----|----|---|---|
+|``enabled``|``boolean``|        |        |
+|``removable``|``boolean``|        |        |
+#### Inherited from NonGraphicalElement (com.ankamagames.dofusarena.aNZ.class)
+
+*No attribute found*
+#### Inherited from EventDispatcher (com.ankamagames.dofusarena.Na.class)
+
+| Attribute Name | Type | Description | Default Value |
+|-----|----|---|---|
+|``id``|``String``|        |        |
+#### Inherited from BasicElement (com.ankamagames.dofusarena.aiR.class)
+
+| Attribute Name | Type | Description | Default Value |
+|-----|----|---|---|
+|``include``||        |        |# 0
+|``includeId``||        |        |# 0
+|``templateId``||        |        |# 0
+|``atlas``||        |        |# 0

@@ -1,5 +1,5 @@
 # Xulor2Doc
-Documentation for the Xulor engine
+Documentation for the Xulor2 engine
 
 
 ## Element Definition

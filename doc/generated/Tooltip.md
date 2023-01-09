@@ -1,0 +1,31 @@
+#### tooltip (com.ankamagames.dofusarena.aNX.class)
+
+| Attribute Name | Type | Description | Default Value |
+|-----|----|---|---|
+|``text``|``String``|        |        |
+|``backgroundColor``|``Color``|        |        |
+|``borderColor``|``Color``|        |        |
+|``borderWidth``|``float``|        |        |
+|``duration``|``int``|        |        |
+|``hotPointPosition``|``aEa``|        |        |
+|``maxWidth``|``float``|        |        |
+|``position``|``Alignment9``|        |        |
+|``textColor``|``Color``|        |        |
+|``xOffset``|``int``|        |        |
+|``yOffset``|``int``|        |        |
+#### Inherited from NonGraphicalElement (com.ankamagames.dofusarena.aNZ.class)
+
+*No attribute found*
+#### Inherited from EventDispatcher (com.ankamagames.dofusarena.Na.class)
+
+| Attribute Name | Type | Description | Default Value |
+|-----|----|---|---|
+|``id``|``String``|        |        |
+#### Inherited from BasicElement (com.ankamagames.dofusarena.aiR.class)
+
+| Attribute Name | Type | Description | Default Value |
+|-----|----|---|---|
+|``include``||        |        |# 0
+|``includeId``||        |        |# 0
+|``templateId``||        |        |# 0
+|``atlas``||        |        |# 0
